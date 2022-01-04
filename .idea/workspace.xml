@@ -4,7 +4,13 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="bf7c5720-fbdd-48c0-b037-a1229f7af3ed" name="Changes" comment="测试" />
+    <list default="true" id="bf7c5720-fbdd-48c0-b037-a1229f7af3ed" name="Changes" comment="测试">
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ruoyi-admin/src/main/resources/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/ruoyi-admin/src/main/resources/application.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ruoyi-admin/target/classes/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/ruoyi-admin/target/classes/application.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ruoyi-admin/target/classes/com/ruoyi/web/controller/system/SysLoginController.class" beforeDir="false" afterPath="$PROJECT_DIR$/ruoyi-admin/target/classes/com/ruoyi/web/controller/system/SysLoginController.class" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -78,6 +84,7 @@
       <workItem from="1638152979406" duration="46000" />
       <workItem from="1638603915760" duration="2992000" />
       <workItem from="1640394106298" duration="3681000" />
+      <workItem from="1641283660159" duration="493000" />
     </task>
     <task id="LOCAL-00001" summary="测试">
       <created>1640394483789</created>
@@ -109,6 +116,7 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="测试" />
