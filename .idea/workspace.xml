@@ -4,20 +4,21 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-<!--    <list default="true" id="bf7c5720-fbdd-48c0-b037-a1229f7af3ed" name="Changes" comment="第三次修改">-->
-<!--      <change afterPath="$PROJECT_DIR$/ruoyi-admin/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterDir="false" />-->
-<!--      <change afterPath="$PROJECT_DIR$/ruoyi-admin/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />-->
-<!--      <change afterPath="$PROJECT_DIR$/ruoyi-common/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterDir="false" />-->
-<!--      <change afterPath="$PROJECT_DIR$/ruoyi-common/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />-->
-<!--      <change afterPath="$PROJECT_DIR$/ruoyi-framework/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterDir="false" />-->
-<!--      <change afterPath="$PROJECT_DIR$/ruoyi-framework/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />-->
-<!--      <change afterPath="$PROJECT_DIR$/ruoyi-generator/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterDir="false" />-->
-<!--      <change afterPath="$PROJECT_DIR$/ruoyi-generator/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />-->
-<!--      <change afterPath="$PROJECT_DIR$/ruoyi-quartz/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterDir="false" />-->
-<!--      <change afterPath="$PROJECT_DIR$/ruoyi-quartz/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />-->
-<!--      <change afterPath="$PROJECT_DIR$/ruoyi-system/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterDir="false" />-->
-<!--      <change afterPath="$PROJECT_DIR$/ruoyi-system/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />-->
-<!--    </list>-->
+    <list default="true" id="c221a2ac-27a1-4211-8c99-dac5477fd8a7" name="Changes" comment="第四次修改">
+      <change afterPath="$PROJECT_DIR$/ruoyi-admin/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ruoyi-admin/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ruoyi-common/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ruoyi-common/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ruoyi-framework/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ruoyi-framework/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ruoyi-generator/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ruoyi-generator/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ruoyi-quartz/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ruoyi-quartz/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ruoyi-system/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ruoyi-system/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -91,7 +92,7 @@
       <workItem from="1638152979406" duration="46000" />
       <workItem from="1638603915760" duration="2992000" />
       <workItem from="1640394106298" duration="3681000" />
-      <workItem from="1641283660159" duration="1215000" />
+      <workItem from="1641283660159" duration="1979000" />
     </task>
     <task id="LOCAL-00001" summary="测试">
       <created>1640394483789</created>
@@ -121,7 +122,14 @@
       <option name="project" value="LOCAL" />
       <updated>1641284850904</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="第四次修改">
+      <created>1641284956454</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1641284956454</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -143,7 +151,8 @@
     <MESSAGE value="测试" />
     <MESSAGE value="第二次修改" />
     <MESSAGE value="第三次修改" />
-    <option name="LAST_COMMIT_MESSAGE" value="第三次修改" />
+    <MESSAGE value="第四次修改" />
+    <option name="LAST_COMMIT_MESSAGE" value="第四次修改" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
