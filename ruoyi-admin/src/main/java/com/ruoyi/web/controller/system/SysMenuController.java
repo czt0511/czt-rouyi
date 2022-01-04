@@ -31,7 +31,7 @@ import com.ruoyi.system.service.ISysMenuService;
 public class SysMenuController extends BaseController
 {
     @Autowired
-    private ISysMenuService menuService;
+     private ISysMenuService menuService;
 
     /**
      * 获取菜单列表
